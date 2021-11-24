@@ -1,0 +1,1 @@
+Pequeño codigo desarrollado en html, css y java script para crear un gestor de stock de paletas
